@@ -72,5 +72,4 @@ public class AppConfig {
         transactionManager.setDataSource(dataSource());
         return transactionManager;
     }
-
 }
